@@ -79,7 +79,7 @@
 <a>Significa que houve um erro na verificação do CPF do Cliente.<br></a>
 
 <a><b>• C285: </b></a>
-<a>Significa que houve um erro na aquisição do Nome e Usuário do Banco de Dados<br></a>
+<a>Significa que houve um erro na aquisição do Nome e Usuário do Banco de Dados.<br></a>
 
 <a><b>• C304: </b></a>
 <a>Significa que houve um erro na hora de deletar o Técnico solicitado.<br></a>
