@@ -1,4 +1,4 @@
-#Programa de Registro de Chamados do SENAC RS - Tramandaí
+<h1>Programa de Registro de Chamados do SENAC RS - Tramandaí</h1>
 
 <a>Bem vindo ao readme do Chamado do Senac RS - Tramandaí.<br></a>
 <a>Aqui você vai encontrar instruções de uso de todas as funções do programa e</a>
