@@ -1,5 +1,4 @@
-# ChamadoSENAC05
-Sistema de chamado para o Senac versão Beta
+#Programa de Registro de Chamados do SENAC RS - Tramandaí
 
 <h1>Menu de Ajuda</h1>
 <a>Bem vindo ao menu de ajuda do Chamado do Senac RS - Tramandaí.<br></a>
@@ -23,16 +22,67 @@ Sistema de chamado para o Senac versão Beta
 <a>Já os Técnicos poderão apenas pesquisar sobre seus próprios registros para manter um melhor controle de datas e tarefas que devem ser realizadas.<br></a>
 <a><b>• Técnicos</b><br></a>
 <a>Nesse menu é onde o Professor poderá registrar os alunos como técnicos assim podendo ter controle sobre cada manutenção realizada, nele também é possivel excluir um cadastro ou editar para caso algum dado tenha sido inserido de forma errada<br></a>
+
 <h3>Códigos de ERRO</h3>
-<a><b>• C023</b><br></a>
-<a>C023 significa que houve um erro de conexão ao Banco de Dados.<br></a>
-<a><b>• C031</b><br></a>
-<a>C031 significa que houve um erro na hora de desconectar do Banco de Dados.<br></a>
-<a><b>• C050</b><br></a>
-<a>C050 significa que houve um erro no login, usuário ou senha errados ou inválidos.<br></a>
-<a><b>• C071</b><br></a>
-<a>C071 significa que houve um erro na aquisição da matrícula registrada no Banco de Dados<br></a>
-<a><b>• C091</b><br></a>
-<a>C091 significa que houve um erro no registro dos dados da instituição<br></a>
-<a><b>• C104</b><br></a>
-<a>C104 significa que houve um erro no registro dos dados do cliente<br></a>
+<a><b>• C027</b><br></a>
+<a>C027 significa que houve um erro de conexão com o Banco e Dados.<br></a>
+
+<a><b>• C035</b><br></a>
+<a>C035 significa que houve um erro na hora de desconectar com o Banco de Dados.<br></a>
+
+<a><b>• C052</b><br></a>
+<a>C052 significa que houve um erro de login, Usuário e/ou senha inválidos.<br></a>
+
+<a><b>• C073</b><br></a>
+<a>C073 significa que houve um erro na aquisição do número da matrícula no Banco de Dados.<br></a>
+
+<a><b>• C093</b><br></a>
+<a>C093 significa que houve um erro na aquisição do nome de usuário do Banco de Dados.<br></a>
+
+<a><b>• C117</b><br></a>
+<a>C117 significa que houve um erro na hora de adicionar os dados de uma Instituição no Banco de Dados.<br></a>
+
+<a><b>• C127</b><br></a>
+<a>C127 significa que houve um erro na hora de adicionar os dados de uma Pessoa Física no Banco de Dados.<br></a>
+
+<a><b>• C141</b><br></a>
+<a>C141 significa que houve um erro na hora de adicionar um chamado no Banco de Dados.<br></a>
+
+<a><b>• C155</b><br></a>
+<a>C155 significa que houve um erro na hora de adicionar o defeito no Banco de Dados.<br></a>
+
+<a><b>• C169</b><br></a>
+<a>C169 significa que houve um erro na hora de adicionar o defeito e solução no Banco de Dados.<br></a>
+
+<a><b>• C183</b><br></a>
+<a>C183 significa que houve um erro na hora de adicionar a solução no Banco de Dados.<br></a>
+
+<a><b>• C197</b><br></a>
+<a>C197 significa que houve um erro na hora de adicionar um Técnico ao Banco de Dados.<br></a>
+
+<a><b>• C211</b><br></a>
+<a>C211 significa que houve um erro na hora de adicionar um Administrador ao Banco de Dados.<br></a>
+
+<a><b>• C225</b><br></a>
+<a>C225 significa que houve um erro na verificação de CPF do responsável pela instituição.<br></a>
+
+<a><b>• C245</b><br></a>
+<a>C245 significa que houve um erro na verificação do CNPJ da instituição.<br></a>
+
+<a><b>• C265</b><br></a>
+<a>C265 significa que houve um erro na verificação do CPF do Cliente.<br></a>
+
+<a><b>• C285</b><br></a>
+<a>C285 significa que houve um erro na aquisição do Nome e Usuário do Banco de Dados<br></a>
+
+<a><b>• C304</b><br></a>
+<a>C304 significa que houve um erro na hora de deletar o Técnico solicitado.<br></a>
+
+<a><b>• C316</b><br></a>
+<a>C316 significa que houve um erro na hora de editar os dados solicitados.<br></a>
+
+<a><b>• C333</b><br></a>
+<a>C333 significa que houve um erro na hora de reportar o bug e enviar o mesmo ao Banco de Dados.<br></a>
+
+<a><b>• C347</b><br></a>
+<a>C347 significa que houve um erro na hora de enviar o Feedback ao Banco de Dados.<br></a>
