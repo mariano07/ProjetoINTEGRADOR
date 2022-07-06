@@ -29,13 +29,13 @@
 <a>Nesse menu existem 2 opções sendo elas Registrar Técnico.<br></a>
 <a>Esse menu só está disponivel para os Administradores.<br></a>
 
-<h3>Códigos de ERRO</h3>
-<a><b>Erros com código C:</b><br></a>
+<h3>•Códigos de ERRO•</h3>
+<a><b>--Erros com código C:</b><br></a>
 
 <a><b>• C029: </b></a>
 <a>Significa que houve um erro de conexão com o Banco e Dados.</a>
 
-<a><br><b>• C037: </b></a>
+<a><b>• C037: </b></a>
 <a>Significa que houve um erro na hora de desconectar com o Banco de Dados.<br></a>
 
 <a><b>• C054: </b></a>
@@ -140,7 +140,7 @@
 <a><b>• C603: </b></a>
 <a>Significa que houve um erro na aquisição do idInstituicao da nova Instituição.<br></a>
 
-<a><b>Erros na Consulta de Chamados</b><br></a>
+<a><b>--Erros na Consulta de Chamados:</b><br></a>
 
 <a><b>• JCC39: </b></a>
 <a>Significa que houve um erro na conexao com o banco de dados.<br></a>
@@ -157,36 +157,36 @@
 <a><b>• JCC180.2: </b></a>
 <a>Significa que houve um erro na aquisição da segunda parte dos dados do chamado selecionado para edição.<br></a>
 
-<a><b>Erros na tela de Clientes Existentes</b><br></a>
+<a><b>--Erros com código JCE</b><br></a>
 
 <a><b>• JCE48: </b></a>
-<a>Significa que houve um erro na conexão com o banco de dados.<br></a>
+<a>Significa que houve um erro na conexão com o banco de dados(Cliente Existente).<br></a>
 
 <a><b>• JCE56: </b></a>
-<a>Significa que houve um erro na desconexão com o banco de dados.<br></a>
+<a>Significa que houve um erro na desconexão com o banco de dados(Cliente Existente).<br></a>
 
 <a><b>• JCE67: </b></a>
 <a>Significa que houve um erro na busca dos Clientes Existentes.<br></a>
 
 <a><b>• JCE89: </b></a>
-<a>Significa que houve um erro na execução do Código SQL Interno.<br></a>
+<a>Significa que houve um erro na execução do Código SQL Interno(Cliente Existente).<br></a>
 
 <a><b>• JCE99: </b></a>
-<a>Significa que houve um erro na aquisição do resultado da pesquisa.<br></a>
+<a>Significa que houve um erro na aquisição do resultado da pesquisa(Cliente Existente).<br></a>
 
-<a><b>Erros na tela de Instituições Existentes</b><br></a>
+<a><b>--Erros com código JIE:</b><br></a>
 
 <a><b>• JIE43: </b></a>
-<a>Significa que houve um erro na conexão com o banco de dados.<br></a>
+<a>Significa que houve um erro na conexão com o banco de dados(Instituição Existente).<br></a>
 
 <a><b>• JIE51: </b></a>
-<a>Significa que houve um erro na desconexão com o banco de dados.<br></a>
+<a>Significa que houve um erro na desconexão com o banco de dados(Instituição Existente).<br></a>
 
 <a><b>• JIE60: </b></a>
 <a>Significa que houve um erro na busca das Instituições Existentes.<br></a>
 
 <a><b>• JIE80: </b></a>
-<a>Significa que houve um erro na execução do Código SQL Interno.<br></a>
+<a>Significa que houve um erro na execução do Código SQL Interno(Instituição Existente).<br></a>
 
 <a><b>• JIE89: </b></a>
-<a>Significa que houve um erro na aquisição do resultado da pesquisa.<br></a>
+<a>Significa que houve um erro na aquisição do resultado da pesquisa(Instituição Existente).<br></a>
