@@ -17,28 +17,27 @@
 
 <a><b>• Reportar</b><br></a>
 <a>Nesse menu existem 2 opções sendo elas Reportar Bug e Feedback.<br></a>
-<a>Na primeira opção o usuário pode manda um relátorio sobre o bug que presenciou, podendo inserir o bug e quais suas ações até que o mesmo ocorresse. <br></a>
-<a>E na segunda opção é para o usuário poder passar um feedback do que está achando do programa e sugestões de funcionalidades que podem se adicionadas ou mudanças nas funcionalidades já presentes.<br></a>
+<a>Na primeira opção o usuário pode mandar um relátorio sobre o bug que presenciou, podendo inserir o bug e quais suas ações até que o mesmo ocorresse.<br></a>
+<a>E a segunda opção é para o usuário poder passar um feedback, do que está achando do programa e sugestões de funcionalidades que podem se adicionadas ou mudanças nas funcionalidades já presentes.<br></a>
 
 <a><b>• Chamados</b><br></a>
-<a>Nesse menu existe 1 opçõe sendo ela Registrar chamado.<br></a>
-<a>É nela onde o usuário vai registrar a máquina, seu defeito e selecionar ou registra o cliente ou instituição a qual a máquina pertence.<br></a>
+<a>Nesse menu existe 1 opção sendo ela Registrar chamado.<br></a>
+<a>É nela onde o usuário vai registrar a máquina, seu defeito e selecionar ou registrar o cliente ou instituição a qual a máquina pertence.<br></a>
 
 <a><b>• Procurar</b><br></a>
-<a>Nesse menu existe 1 opçõe sendo ela Consultar Chamados.<br></a>
+<a>Nesse menu existe 1 opção sendo ela Consultar Chamados.<br></a>
 <a>Esse item do menu tem como funcionalidade auxiliar o técnico na pesquisa e consulta dos seus proprios chamados (ou de todos os alunos caso seja o professor) a fim de de controle e oganização,</a>
-<a>juntamente na tela que é aperta além da opção de pesquisar existem filtros que auxiliam na hora de achar um Chamado específico e também um botão para edição do chamado selecionado pelo usuário na parte inferior direita.<br></a>
+<a>juntamente na tela que é aberta além da opção de pesquisar, existem filtros que auxiliam na hora de achar um Chamado específico e também um botão para edição do chamado selecionado pelo usuário na parte inferior direita.<br></a>
 
 <a><b>• Estatísticas</b><br></a>
 <a>Nesse menu existem 2 opções sendo elas Equipe e Individuais.<br></a>
 <a><b>!!!ATUALMENTE NÃO IMPLEMENTADO!!!</b><br></a>
-<a>A opção individual está disponivel para cada um dos Técnicos, e com ela podem ver seus desempenhos com base nas estátisticas apresentadas na tela, já a opção Equipe apenas para os Administradores e o menu Individual é diferente </a>
-<a>pois permite a pesquisa de um nome e a possibilidade de ver o desempenho individual de cada técnico.<br></a>
+<a>A opção individual está disponivel para cada um dos Técnicos, e nela podem ver seus desempenhos com base nas estátisticas apresentadas na tela, já a opção Equipe apenas para os Administradores e o menu Individual é diferente pois permite a pesquisa de um nome e a possibilidade de ver o desempenho individual de cada técnico.<br></a>
 
 <a><b>• Técnicos</b><br></a>
-<a>Nesse menu existem 2 opções sendo elas Registrar Técnico.<br></a>
+<a>Nesse menu existem 2 opções sendo elas Registrar Técnico e Excluir Técnico.<br></a>
 <a>Esse menu só está disponivel para os Administradores.<br></a>
-<a>A primeira opção é para o Administrador/Professor registrar um aluno que não estava no sistema do chamado e a segunda é para caso seja necessário deletar algum aluno caso ocorra algum problema ou o mesmo saia do curso durante sua duração.<br></a>
+<a>A primeira opção é para o Administrador/Professor registrar um aluno que não estava no sistema do chamado e a segunda é para caso seja, necessário deletar algum aluno caso ocorra algum problema ou o mesmo saia do curso durante sua duração.<br></a>
 
 <h3>•Códigos de ERRO•</h3>
 <a><b>--Erros com código C:</b><br></a>
@@ -146,7 +145,7 @@
 <a>Significa que houve um erro na atualização do defeito e solução do chamado.<br></a>
 
 <a><b>• C585: </b></a>
-<a>Significa que houve um erro na aquisição do idCliente do novo CLiente.<br></a>
+<a>Significa que houve um erro na aquisição do idCliente do novo Cliente.<br></a>
 
 <a><b>• C603: </b></a>
 <a>Significa que houve um erro na aquisição do idInstituicao da nova Instituição.<br></a>
