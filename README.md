@@ -31,65 +31,162 @@
 
 <h3>Códigos de ERRO</h3>
 <a><b>Erros com código C:</b><br></a>
-<a><b>• C027: </b></a>
+
+<a><b>• C029: </b></a>
 <a>Significa que houve um erro de conexão com o Banco e Dados.</a>
 
-<a><br><b>• C035: </b></a>
+<a><br><b>• C037: </b></a>
 <a>Significa que houve um erro na hora de desconectar com o Banco de Dados.<br></a>
 
-<a><b>• C052: </b></a>
+<a><b>• C054: </b></a>
 <a>Significa que houve um erro de login, Usuário e/ou senha inválidos.<br></a>
 
-<a><b>• C073: </b></a>
+<a><b>• C075: </b></a>
 <a>Significa que houve um erro na aquisição do número da matrícula no Banco de Dados.<br></a>
 
-<a><b>• C093: </b></a>
+<a><b>• C095: </b></a>
 <a>Significa que houve um erro na aquisição do nome de usuário do Banco de Dados.<br></a>
 
-<a><b>• C117: </b></a>
+<a><b>• C115: </b></a>
 <a>Significa que houve um erro na hora de adicionar os dados de uma Instituição no Banco de Dados.<br></a>
 
-<a><b>• C127: </b></a>
+<a><b>• C129: </b></a>
 <a>Significa que houve um erro na hora de adicionar os dados de uma Pessoa Física no Banco de Dados.<br></a>
 
-<a><b>• C141: </b></a>
+<a><b>• C143: </b></a>
 <a>Significa que houve um erro na hora de adicionar um chamado no Banco de Dados.<br></a>
 
-<a><b>• C155: </b></a>
+<a><b>• C158: </b></a>
 <a>Significa que houve um erro na hora de adicionar o defeito no Banco de Dados.<br></a>
 
-<a><b>• C169: </b></a>
+<a><b>• C181: </b></a>
 <a>Significa que houve um erro na hora de adicionar o defeito e solução no Banco de Dados.<br></a>
 
-<a><b>• C183: </b></a>
+<a><b>• C204: </b></a>
 <a>Significa que houve um erro na hora de adicionar a solução no Banco de Dados.<br></a>
 
-<a><b>• C197: </b></a>
+<a><b>• C219: </b></a>
 <a>Significa que houve um erro na hora de adicionar um Técnico ao Banco de Dados.<br></a>
 
-<a><b>• C211: </b></a>
+<a><b>• C233: </b></a>
 <a>Significa que houve um erro na hora de adicionar um Administrador ao Banco de Dados.<br></a>
 
-<a><b>• C225: </b></a>
+<a><b>• C247: </b></a>
 <a>Significa que houve um erro na verificação de CPF do responsável pela instituição.<br></a>
 
-<a><b>• C245: </b></a>
+<a><b>• C267: </b></a>
 <a>Significa que houve um erro na verificação do CNPJ da instituição.<br></a>
 
-<a><b>• C265: </b></a>
+<a><b>• C287: </b></a>
 <a>Significa que houve um erro na verificação do CPF do Cliente.<br></a>
 
-<a><b>• C285: </b></a>
+<a><b>• C307: </b></a>
 <a>Significa que houve um erro na aquisição do Nome e Usuário do Banco de Dados.<br></a>
 
-<a><b>• C304: </b></a>
+<a><b>• C326: </b></a>
 <a>Significa que houve um erro na hora de deletar o Técnico solicitado.<br></a>
 
-<a><b>• C316: </b></a>
+<a><b>• C338: </b></a>
 <a>Significa que houve um erro na hora de editar os dados solicitados.<br></a>
 
-<a><b>• C333: </b></a>
+<a><b>• C355: </b></a>
 <a>Significa que houve um erro na hora de reportar o bug e enviar o mesmo ao Banco de Dados.<br></a>
 
-<a><b>• C347: </b></a>
+<a><b>• C369: </b></a>
 <a>Significa que houve um erro na hora de enviar o Feedback ao Banco de Dados.<br></a>
+
+<a><b>• C383: </b></a>
+<a>Significa que houve um erro .<br></a>
+
+<a><b>• C383: </b></a>
+<a>Significa que houve um erro na aquisição dos dados das estátisticas individuais.<br></a>
+
+<a><b>• C409: </b></a>
+<a>Significa que houve um erro na aquisição do total de estátisticas.<br></a>
+
+<a><b>• C427: </b></a>
+<a>Significa que houve um erro na aquisição das estátisticas de equipe.<br></a>
+
+<a><b>• C454: </b></a>
+<a>Significa que houve um erro na busca de uma estátistica por matrícula.<br></a>
+
+<a><b>• C473: </b></a>
+<a>Significa que houve um erro na busca de Clientes Existentes.<br></a>
+
+<a><b>• C490: </b></a>
+<a>Significa que houve um erro no registro do chamado em um Cliente Existente.<br></a>
+
+<a><b>• C503: </b></a>
+<a>Significa que houve um erro na busca de Instituições Existentes.<br></a>
+
+<a><b>• C520: </b></a>
+<a>Significa que houve um erro no registro do chamado com uma Instituição Existente.<br></a>
+
+<a><b>• C533: </b></a>
+<a>Significa que houve um erro na hora de registrar o orçamento.<br></a>
+
+<a><b>• C546: </b></a>
+<a>Significa que houve um erro na atualização do chamado.<br></a>
+
+<a><b>• C560: </b></a>
+<a>Significa que houve um erro na atualização do defeito do chamado.<br></a>
+
+<a><b>• C572: </b></a>
+<a>Significa que houve um erro na atualização do defeito e solução do chamado.<br></a>
+
+<a><b>• C585: </b></a>
+<a>Significa que houve um erro na aquisição do idCliente do novo CLiente.<br></a>
+
+<a><b>• C603: </b></a>
+<a>Significa que houve um erro na aquisição do idInstituicao da nova Instituição.<br></a>
+
+<a><b>Erros na Consulta de Chamados</b><br></a>
+
+<a><b>• JCC39: </b></a>
+<a>Significa que houve um erro na conexao com o banco de dados.<br></a>
+
+<a><b>• JCC47: </b></a>
+<a>Significa que houve um erro na desconexao com o banco de dados.<br></a>
+
+<a><b>• JCC77: </b></a>
+<a>Significa que houve um erro na busca com filtros.<br></a>
+
+<a><b>• JCC180: </b></a>
+<a>Significa que houve um erro na aquisição da primeia parte dos dados do chamado selecionado para edição.<br></a>
+
+<a><b>• JCC180.2: </b></a>
+<a>Significa que houve um erro na aquisição da segunda parte dos dados do chamado selecionado para edição.<br></a>
+
+<a><b>Erros na tela de Clientes Existentes</b><br></a>
+
+<a><b>• JCE48: </b></a>
+<a>Significa que houve um erro na conexão com o banco de dados.<br></a>
+
+<a><b>• JCE56: </b></a>
+<a>Significa que houve um erro na desconexão com o banco de dados.<br></a>
+
+<a><b>• JCE67: </b></a>
+<a>Significa que houve um erro na busca dos Clientes Existentes.<br></a>
+
+<a><b>• JCE89: </b></a>
+<a>Significa que houve um erro na execução do Código SQL Interno.<br></a>
+
+<a><b>• JCE99: </b></a>
+<a>Significa que houve um erro na aquisição do resultado da pesquisa.<br></a>
+
+<a><b>Erros na tela de Instituições Existentes</b><br></a>
+
+<a><b>• JIE43: </b></a>
+<a>Significa que houve um erro na conexão com o banco de dados.<br></a>
+
+<a><b>• JIE51: </b></a>
+<a>Significa que houve um erro na desconexão com o banco de dados.<br></a>
+
+<a><b>• JIE60: </b></a>
+<a>Significa que houve um erro na busca das Instituições Existentes.<br></a>
+
+<a><b>• JIE80: </b></a>
+<a>Significa que houve um erro na execução do Código SQL Interno.<br></a>
+
+<a><b>• JIE89: </b></a>
+<a>Significa que houve um erro na aquisição do resultado da pesquisa.<br></a>
