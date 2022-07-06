@@ -140,22 +140,22 @@
 <a><b>• C603: </b></a>
 <a>Significa que houve um erro na aquisição do idInstituicao da nova Instituição.<br></a>
 
-<a><b>--Erros na Consulta de Chamados:</b><br></a>
+<a><b>--Erros com código JCC:</b><br></a>
 
 <a><b>• JCC39: </b></a>
-<a>Significa que houve um erro na conexao com o banco de dados.<br></a>
+<a>Significa que houve um erro na conexao com o banco de dados(Consulta Chamados).<br></a>
 
 <a><b>• JCC47: </b></a>
-<a>Significa que houve um erro na desconexao com o banco de dados.<br></a>
+<a>Significa que houve um erro na desconexao com o banco de dados(Consulta Chamados).<br></a>
 
 <a><b>• JCC77: </b></a>
-<a>Significa que houve um erro na busca com filtros.<br></a>
+<a>Significa que houve um erro na busca com filtros(Consulta Chamados).<br></a>
 
 <a><b>• JCC180: </b></a>
-<a>Significa que houve um erro na aquisição da primeia parte dos dados do chamado selecionado para edição.<br></a>
+<a>Significa que houve um erro na aquisição da primeia parte dos dados do chamado selecionado para edição(Consulta Chamados).<br></a>
 
 <a><b>• JCC180.2: </b></a>
-<a>Significa que houve um erro na aquisição da segunda parte dos dados do chamado selecionado para edição.<br></a>
+<a>Significa que houve um erro na aquisição da segunda parte dos dados do chamado selecionado para edição(Consulta Chamados).<br></a>
 
 <a><b>--Erros com código JCE</b><br></a>
 
