@@ -30,6 +30,7 @@
 <a>Esse menu só está disponivel para os Administradores.<br></a>
 
 <h3>Códigos de ERRO</h3>
+<a><b>Erros com código C:</b><br></a>
 <a><b>• C027: </b></a>
 <a>Significa que houve um erro de conexão com o Banco e Dados.</a>
 
